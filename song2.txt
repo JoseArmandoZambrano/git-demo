@@ -1,4 +1,0 @@
-HOla hola 
-
-sigue las pruebas 
-de push con revert 
