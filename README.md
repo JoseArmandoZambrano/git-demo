@@ -10,3 +10,5 @@ esto lo estoy haciendo desde vscode
 
 
 linea temporal 1 desde el gui 
+
+linea para probar amend 
